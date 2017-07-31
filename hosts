@@ -1,0 +1,13 @@
+manager:
+  hosts:
+      demo-epg-swarm-01.hi.inet:
+
+
+
+worker:
+  hosts:
+      demo-epg-swarm-[02:03].hi.inet:
+
+
+
+
